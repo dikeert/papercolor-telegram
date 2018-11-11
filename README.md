@@ -1,6 +1,6 @@
 # Papercolor for Telegram
 
-This is colorscheme for Telegram and tries to match [papercolor-theme](https://github.com/NLKNguyen/papercolor-theme)
+This is a colorscheme for Telegram that tries to match [papercolor-theme](https://github.com/NLKNguyen/papercolor-theme)
 experience
 
 ## Installation:
